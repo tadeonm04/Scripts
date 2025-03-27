@@ -1,2 +1,4 @@
 # Projects
-Compound of some projects and technique that I have used 
+Compound of some projects and techniques that I have used through time. 
+
+
